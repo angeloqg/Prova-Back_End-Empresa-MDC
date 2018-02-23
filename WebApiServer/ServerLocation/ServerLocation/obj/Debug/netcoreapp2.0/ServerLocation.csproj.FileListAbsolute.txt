@@ -1,0 +1,13 @@
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\ServerLocation.deps.json
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\ServerLocation.runtimeconfig.json
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\ServerLocation.runtimeconfig.dev.json
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\ServerLocation.dll
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\ServerLocation.pdb
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.AssemblyInfo.cs
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.dll
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\obj\Debug\netcoreapp2.0\ServerLocation.pdb
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\DataLogic.dll
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\ServerLocation\bin\Debug\netcoreapp2.0\DataLogic.pdb

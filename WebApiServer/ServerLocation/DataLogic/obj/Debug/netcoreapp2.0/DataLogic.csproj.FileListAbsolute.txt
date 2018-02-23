@@ -1,0 +1,9 @@
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\bin\Debug\netcoreapp2.0\DataLogic.deps.json
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\bin\Debug\netcoreapp2.0\DataLogic.dll
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.AssemblyInfo.cs
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\bin\Debug\netcoreapp2.0\DataLogic.pdb
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.dll
+C:\Users\angel\Desktop\testeSQLite\WebApiServer\ServerLocation\DataLogic\obj\Debug\netcoreapp2.0\DataLogic.pdb
